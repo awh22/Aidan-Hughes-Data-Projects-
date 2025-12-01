@@ -1,3 +1,37 @@
-Analyzed 63,445 galaxies and produced color–mass diagrams, quiescent vs. star-forming contours, and comparisons to smaller subsets.
-This project demonstrates large dataset handling, visualization, and astrophysics interpretation.This was a project of creating a histogram with two data sets and comparing what amount of each data set had what r-band mag and what we could learn about each population 
-with this information. I used many different styles at choices in using matlab to get the one that represeted the data the best. 
+This repository contains my coding projects from physics and astronomy courses, independent work, and a research-focused astrophysics class. Most notebooks were created in Google Colab using Python, and some use MATLAB or tools like TOPCAT. These projects demonstrate scientific data analysis, visualization, and physics-based problem solving.
+
+Projects
+Galaxy Color–Mass Analysis
+
+Tools: Python, numpy, matplotlib, astropy, TOPCAT
+
+Analyzed large (~63k) galaxy datasets
+
+Created color–mass diagrams and quiescent vs. star-forming contours
+
+Compared large and small samples
+
+Stellar Populations & IMF Modeling
+
+Tools: Python, numpy, scipy
+
+Modeled stellar populations using simplified IMFs
+
+Computed mass fractions and plotted distributions
+
+Other Physics & Astro Notebooks
+
+(Quantum mechanics, cosmology, galaxy analysis, data cleaning templates, etc.)
+More notebooks will be added here as the portfolio grows.
+
+Skills Used
+
+Python, MATLAB, Google Colab
+
+numpy, pandas, matplotlib, scipy, astropy
+
+TOPCAT for catalog analysis
+
+Large dataset handling & visualization
+
+Physics and astrophysics problem solving
